@@ -1,0 +1,11 @@
+/Users/jihongha/Desktop/GlueSQL/hello_test/target/debug/deps/gluesql_cli-6784a262dcd0fd47.rmeta: /Users/jihongha/.cargo/registry/src/github.com-1ecc6299db9ec823/gluesql-cli-0.11.0/src/lib.rs /Users/jihongha/.cargo/registry/src/github.com-1ecc6299db9ec823/gluesql-cli-0.11.0/src/cli.rs /Users/jihongha/.cargo/registry/src/github.com-1ecc6299db9ec823/gluesql-cli-0.11.0/src/command.rs /Users/jihongha/.cargo/registry/src/github.com-1ecc6299db9ec823/gluesql-cli-0.11.0/src/helper.rs /Users/jihongha/.cargo/registry/src/github.com-1ecc6299db9ec823/gluesql-cli-0.11.0/src/print.rs
+
+/Users/jihongha/Desktop/GlueSQL/hello_test/target/debug/deps/libgluesql_cli-6784a262dcd0fd47.rlib: /Users/jihongha/.cargo/registry/src/github.com-1ecc6299db9ec823/gluesql-cli-0.11.0/src/lib.rs /Users/jihongha/.cargo/registry/src/github.com-1ecc6299db9ec823/gluesql-cli-0.11.0/src/cli.rs /Users/jihongha/.cargo/registry/src/github.com-1ecc6299db9ec823/gluesql-cli-0.11.0/src/command.rs /Users/jihongha/.cargo/registry/src/github.com-1ecc6299db9ec823/gluesql-cli-0.11.0/src/helper.rs /Users/jihongha/.cargo/registry/src/github.com-1ecc6299db9ec823/gluesql-cli-0.11.0/src/print.rs
+
+/Users/jihongha/Desktop/GlueSQL/hello_test/target/debug/deps/gluesql_cli-6784a262dcd0fd47.d: /Users/jihongha/.cargo/registry/src/github.com-1ecc6299db9ec823/gluesql-cli-0.11.0/src/lib.rs /Users/jihongha/.cargo/registry/src/github.com-1ecc6299db9ec823/gluesql-cli-0.11.0/src/cli.rs /Users/jihongha/.cargo/registry/src/github.com-1ecc6299db9ec823/gluesql-cli-0.11.0/src/command.rs /Users/jihongha/.cargo/registry/src/github.com-1ecc6299db9ec823/gluesql-cli-0.11.0/src/helper.rs /Users/jihongha/.cargo/registry/src/github.com-1ecc6299db9ec823/gluesql-cli-0.11.0/src/print.rs
+
+/Users/jihongha/.cargo/registry/src/github.com-1ecc6299db9ec823/gluesql-cli-0.11.0/src/lib.rs:
+/Users/jihongha/.cargo/registry/src/github.com-1ecc6299db9ec823/gluesql-cli-0.11.0/src/cli.rs:
+/Users/jihongha/.cargo/registry/src/github.com-1ecc6299db9ec823/gluesql-cli-0.11.0/src/command.rs:
+/Users/jihongha/.cargo/registry/src/github.com-1ecc6299db9ec823/gluesql-cli-0.11.0/src/helper.rs:
+/Users/jihongha/.cargo/registry/src/github.com-1ecc6299db9ec823/gluesql-cli-0.11.0/src/print.rs:
